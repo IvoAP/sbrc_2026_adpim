@@ -4,6 +4,14 @@ Este repositório implementa a técnica **ADPIM (Adaptive Differential Privacy w
 um método de anonimização de dados que ajusta o ruído de privacidade de forma adaptativa usando informação mútua
 e correlação entre atributos, focado em manter o máximo de acurácia em tarefas de aprendizado de máquina.
 
+## Autores
+
+- Ivo A. Pimenta
+- Marcelo H. Lee
+- Evellin S. Moura
+- Fabio A. Faria
+- Rafael L. Gomes
+
 ## Como instalar
 
 1. Certifique-se de ter **Python 3.9+** instalado.
